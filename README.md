@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me  
 
-- 🎓 Computer Engineering student at **Dr. D. Y. Patil College of Engineering & Innovation, Pune**.  
+- 🎓 Final Year B.E Computer Engineering student at **Dr. D. Y. Patil College of Engineering & Innovation, Pune**.  
 - 💡 Skilled in **Java, JavaScript, MERN Stack, MySQL & MongoDB** with strong **DSA** skills.  
 - 🚀 Built projects like **WanderStay** (Airbnb-inspired app) & **Tradzio** (Stock Trading Platform).  
 - 🏆 Diploma Batch Topper | Maintained a 9+ CGPA | 270+ LeetCode problems solved.  
