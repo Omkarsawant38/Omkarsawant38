@@ -11,16 +11,20 @@
 
 ## 👨‍💻 About Me  
 
-- 🎓 I’m **Omkar Sawant**, a Computer Engineering student at **D.Y. Patil College of Engineering and Innovation**.  
-- 💡 Skilled in **Java, JavaScript, MERN Stack, and Database Management (MySQL, MongoDB)** with a strong foundation in **Data Structures and Algorithms**.  
-- 🚀 Hands-on experience through projects like **WanderStay (Airbnb-inspired property listing app)** and **Tradzio (Full-Stack Stock Trading Platform)**.  
-- 💼 Completed a **Web Developer Internship** at Creative Technology & Solutions, where I worked on responsive UI and backend integration.  
-- 🏆 Achievements include being **Diploma Batch Topper**, maintaining a **9+ CGPA**, and solving **270+ problems on LeetCode**.  
-- 🌱 Currently exploring **AI & ML**, alongside full-stack development.  
+- 🎓 Computer Engineering student at **Dr. D. Y. Patil College of Engineering & Innovation, Pune**.  
+- 💡 Skilled in **Java, JavaScript, MERN Stack, MySQL & MongoDB** with strong **DSA** skills.  
+- 🚀 Built projects like **WanderStay** (Airbnb-inspired app) & **Tradzio** (Stock Trading Platform).  
+- 🏆 Diploma Batch Topper | Maintained a 9+ CGPA | 270+ LeetCode problems solved.  
+- 🌱 Exploring AI & ML 🤖 | Passionate about building impactful tech projects and innovative solutions. 
+- 🤝 Always excited to team up on **innovative open-source and impactful real-world projects**.  
 
 
-##  Projects
-- 💪🏼 Working on [Cheat Proof AI: Building a real-time AI-powered online exam invigilation system.]()
+## 🚀 Projects  
+
+- 🏡 **WanderStay** – Full-Stack Property Listing App with authentication & interactive maps.  
+- 📈 **Tradzio** – Stock Trading Platform with real-time portfolio & secure transactions.  
+- 🤖 **Cheat Proof AI** – Real-time AI-powered online exam invigilation system.  
+
 
 - 🌱 I’m currently learning **Artificial Intelligence (AI) & Machine Learning (ML).**
 
