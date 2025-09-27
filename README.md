@@ -9,6 +9,14 @@
 
 <p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
 
+## 👨‍💻 About Me  
+
+- 🎓 I’m **Omkar Sawant**, a Computer Engineering student at **D.Y. Patil College of Engineering and Innovation**.  
+- 💡 Skilled in **Java, JavaScript, MERN Stack, and Database Management (MySQL, MongoDB)** with a strong foundation in **Data Structures and Algorithms**.  
+- 🚀 Hands-on experience through projects like **WanderStay (Airbnb-inspired property listing app)** and **Tradzio (Full-Stack Stock Trading Platform)**.  
+- 💼 Completed a **Web Developer Internship** at Creative Technology & Solutions, where I worked on responsive UI and backend integration.  
+- 🏆 Achievements include being **Diploma Batch Topper**, maintaining a **9+ CGPA**, and solving **270+ problems on LeetCode**.  
+- 🌱 Currently exploring **AI & ML**, alongside full-stack development.  
 
 
 - 💪🏼 Working on [Cheat Proof AI: Building a real-time AI-powered online exam invigilation system.]()
