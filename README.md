@@ -19,6 +19,7 @@
 - 🌱 Currently exploring **AI & ML**, alongside full-stack development.  
 
 
+##  Projects
 - 💪🏼 Working on [Cheat Proof AI: Building a real-time AI-powered online exam invigilation system.]()
 
 - 🌱 I’m currently learning **Artificial Intelligence (AI) & Machine Learning (ML).**
