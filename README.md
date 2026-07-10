@@ -14,7 +14,7 @@
 - 🎓 Final Year B.E Computer Engineering student at **Dr. D. Y. Patil College of Engineering & Innovation, Pune**.  
 - 💡 Skilled in **Java, JavaScript, MERN Stack, MySQL & MongoDB** with strong **DSA** skills.  
 - 🚀 Built projects like **WanderStay** (Airbnb-inspired app) & **Tradzio** (Stock Trading Platform).  
-- 🏆 Diploma Batch Topper | Maintained a 9+ CGPA | 270+ LeetCode problems solved.  
+- 🏆 Diploma Batch Topper | Maintained a 9+ CGPA | 570+ LeetCode problems solved.  
 - 🌱 Exploring AI & ML 🤖 | Passionate about building impactful tech projects and innovative solutions. 
 - 🤝 Always excited to team up on **innovative open-source and impactful real-world projects**.  
 
@@ -26,7 +26,7 @@
 - 🤖 **Cheat Proof AI** – Real-time AI-powered online exam invigilation system.  
 
 
-- 🌱 I’m currently learning **Artificial Intelligence (AI) & Machine Learning (ML).**
+- 🌱 **Artificial Intelligence (AI) & Machine Learning (ML).**
 
 - 💬 Ask me about **MERN Stack Development.**
 
