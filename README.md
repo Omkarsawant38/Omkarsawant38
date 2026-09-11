@@ -205,50 +205,6 @@ An AI-based online examination monitoring system designed to identify suspicious
 
 </p>
 
-
----
-
-## 🧠 Core Skills
-
-```text
-Java                    ████████████████████
-Data Structures & Algo  ████████████████████
-JavaScript              ██████████████████░░
-MERN Stack               ██████████████████░░
-MongoDB                  █████████████████░░░
-MySQL                    █████████████████░░░
-Python                   ███████████████░░░░░
-AI / ML                  ████████████░░░░░░░░
-```
-
----
-
-## 🧩 Problem Solving
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omkarsawant38&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkarsawant38&theme=dark&mode=weekly&hide_border=false" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarsawant38&layout=compact&theme=dark&hide_border=false" alt="Top Languages"/>
-</p>
-
----
-
-## 💬 Ask Me About
-
-* ☕ Java
-* 🧩 Data Structures & Algorithms
-* 🌐 MERN Stack Development
-* ⚛️ React.js
-* 🟢 Node.js & Express.js
-* 🗄️ MongoDB & MySQL
-* 🤖 Artificial Intelligence & Machine Learning
-
 ---
 
 ## 🌱 Currently Learning
